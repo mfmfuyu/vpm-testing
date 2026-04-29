@@ -98,9 +98,6 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
-/Assets/*
-!/Assets/PawKit.meta
-!/Assets/PawKit/
-!/Assets/PawKit/**
-/Packages
+/Assets
+!/Assets/.gitkeep
 /ProjectSettings

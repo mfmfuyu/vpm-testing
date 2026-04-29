@@ -1,0 +1,16 @@
+{
+  "name": "net.mfmfuyu.paw-kit",
+  "displayName": "PawKit",
+  "version": "0.0.1",
+  "description": "Describe this Package",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.10.3"
+  },
+  "author": {
+    "name": "fuyu",
+    "email": "fuyu@mfmfuyu.net"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {}
+}
