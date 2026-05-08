@@ -1,6 +1,6 @@
 {
-    "name": "net.mfmfuyu.paw-kit.Editor",
-    "rootNamespace": "",
+    "name": "net.mfmfuyu.paw-kit.editor",
+    "rootNamespace": "PawKit",
     "references": [
         "VRC.SDK3A",
         "VRC.SDK3A.Editor",
@@ -9,7 +9,8 @@
         "nadena.dev.ndmf",
         "AnimatorAsCode.V1",
         "AnimatorAsCode.V1.VRChat",
-        "AnimatorAsCode.V1.ModularAvatar"
+        "AnimatorAsCode.V1.ModularAvatar",
+        "net.mfmfuyu.paw-kit.runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

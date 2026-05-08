@@ -1,6 +1,6 @@
 {
-    "name": "net.mfmfuyu.paw-kit",
-    "rootNamespace": "",
+    "name": "net.mfmfuyu.paw-kit.runtime",
+    "rootNamespace": "PawKit",
     "references": [
         "VRC.SDK3A",
         "VRC.SDKBase"
